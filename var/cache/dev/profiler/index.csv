@@ -1,1 +1,4 @@
 1939f1,127.0.0.1,GET,http://127.0.0.1:8000/,1450243357,,200
+131e9e,127.0.0.1,GET,http://127.0.0.1:8000/,1450245468,,200
+eea551,127.0.0.1,GET,http://localhost:8000/app_dev.php/lucky/number,1450245499,94254f,200
+94254f,127.0.0.1,GET,http://localhost:8000/app_dev.php/lucky/number,1450245499,,404
